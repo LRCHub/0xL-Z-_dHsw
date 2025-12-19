@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Abyss to Eden",
+  "base_artist": "トロワアンジュ",
+  "createdAt": "2025-12-19T17:08:53.599142Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Abyss to Eden",
+      "artist": "トロワアンジュ",
+      "has_synced": false,
+      "path": "select/pl_01_Abyss_to_Eden_トロワアンジュ.txt"
+    }
+  ]
+}
